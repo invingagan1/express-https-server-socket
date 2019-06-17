@@ -1,2 +1,1 @@
-# express-https-server-socket
-Express http/https server with socket.io 
+#Example of express http/s server with socket.io
